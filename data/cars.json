@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Dodge Charger SRT Jailbreak",
+    "id": "PQ9Yv",
+    "priceInCents": 0.677,
+    "inStock": true
+  },
+  {
+    "name": "BMW M8 Competition Coupe",
+    "id": "V8OOm",
+    "priceInCents": 0.883,
+    "inStock": true
+  },
+  {
+    "name": "Lamborghini Urus Graphite Capsule",
+    "id": "LDhuO",
+    "priceInCents": 0.995,
+    "inStock": true
+  },
+  {
+    "name": "Mercedes-Benz S63 AMG Coupe",
+    "id": "A-MYZ",
+    "priceInCents": 0.823,
+    "inStock": true
+  },
+  {
+    "name": "McLaren 750S Spider",
+    "id": "iQOiu",
+    "priceInCents": 0.968,
+    "inStock": true
+  }
+]
